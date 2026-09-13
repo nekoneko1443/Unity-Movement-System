@@ -6,5 +6,12 @@
   "unity": "6000.0",
   "author": {
     "name": "rioneko"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Basic",
+      "description": "Basic example scene for Creative Movement.",
+      "path": "Samples/Basic"
+    }
+  ]
 }
