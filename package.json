@@ -1,0 +1,10 @@
+{
+  "name": "com.yourname.creativemovement",
+  "version": "1.0.0",
+  "displayName": "Creative Movement",
+  "description": "A simple free 3D movement system for Unity.",
+  "unity": "6000.0",
+  "author": {
+    "name": "rioneko"
+  }
+}
