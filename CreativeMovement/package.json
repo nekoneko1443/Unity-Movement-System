@@ -11,7 +11,7 @@
     {
       "displayName": "Basic",
       "description": "Basic example scene for Creative Movement.",
-      "path": "Samples/Basic"
+      "path": "Samples~/Basic"
     }
   ]
 }
