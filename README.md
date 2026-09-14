@@ -43,6 +43,9 @@ UnityでMinecraftのクリエイティブモードのような
 1. `CreativePlayer.prefab`をSceneに配置する。
 2. 必要に応じてInspectorから移動速度を変更する。
 3. Playすると自由に3D移動できます。
+4. Character Mover(Script)のMoveSpeedから移動速度を変更することも可能です。<br>
+<img width="403" height="498" alt="Character Mover image" src="https://github.com/user-attachments/assets/9a2b1cee-a255-450e-921f-e27d9f36bb16" />
+
 
 ## Project Structure
 
