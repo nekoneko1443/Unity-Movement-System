@@ -29,10 +29,19 @@ UnityでMinecraftのクリエイティブモードのような
 | Shift | 下降 |
 | Mouse | 視点操作 |
 
-## Usage
 
-1. `CreativePlayer.prefab` をSceneに配置します。
-2. 必要に応じてInspectorから移動速度を変更します。
+## インストール方法
+1. Window→Package Management→Package Managerを開く。
+2. 左上の「＋」から、「Install Package from git URL...」をクリックする。
+3. `https://github.com/nekoneko1443/Unity-Movement-System.git?path=/CreativeMovement`を入力してインストールする。
+4. Package Managerの「Creative Movement」（このパッケージ）のSampleタブをクリックする。
+<img width="1454" height="629" alt="Package Manager image" src="https://github.com/user-attachments/assets/a66f1217-4463-4403-a823-e50d7b12d0fa" />
+5. Reimportの場合、すでに「Assets/Samples/...」にサンプルがインストールされているため、動作確認が可能です。「Assets/Samples/CreativeMovement/1.0.0/Basic/SampleScene」を開き、Playすると動作確認できます。（importの場合はそこをクリックし、同様の操作を行なってください。）<br>
+<img width="483" height="516" alt="Unity Project image" src="https://github.com/user-attachments/assets/25a3504d-deb7-4b98-a77b-a0a4f7c7d0d2" />
+
+## Usage
+1. `CreativePlayer.prefab`をSceneに配置する。
+2. 必要に応じてInspectorから移動速度を変更する。
 3. Playすると自由に3D移動できます。
 
 ## Project Structure
